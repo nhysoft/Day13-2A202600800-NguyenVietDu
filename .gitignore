@@ -1,0 +1,8 @@
+# Bí mật — KHÔNG bao giờ push key lên GitHub
+.env
+.env.*
+*.key
+
+# File tạm
+__pycache__/
+*.pyc
