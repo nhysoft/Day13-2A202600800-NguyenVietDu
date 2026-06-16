@@ -1,0 +1,21 @@
+{
+  "team": "2A202600680-NguyenDucHieu",
+  "phase": "private",
+  "headline": 98.44,
+  "sub": {
+    "correct": 0.7,
+    "quality": 0.8175,
+    "error": 1.0,
+    "latency": 0.775,
+    "cost": 0.6864,
+    "drift": 0.4865,
+    "prompt": 0.8118
+  },
+  "diag_f1": 1.0,
+  "n": 80,
+  "n_correct": 53,
+  "judge_mode": "offline",
+  "weights_hash": "e81a8ed58d93",
+  "key_hash": "7e3905b75db0",
+  "sig": "f21fe481a2dfc407692f514e4595e83ceba1f1ba307e3f4614c83a1b28f3c229"
+}
